@@ -60,6 +60,7 @@
      <Compile Include="Assets\Arcade_Car_Physics\Scripts\Trails\Trail.cs" />
      <Compile Include="Assets\Arcade_Car_Physics\Scripts\Trails\TrailEmitter.cs" />
      <Compile Include="Assets\Arcade_Car_Physics\Scripts\WheelVehicle.cs" />
+     <Compile Include="Assets\cHECKPOINT.cs" />
      <Compile Include="Assets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
      <Compile Include="Assets\SampleScenes\Menu\Scripts\PauseMenu.cs" />
      <Compile Include="Assets\SampleScenes\Menu\Scripts\SceneAndURLLoader.cs" />
