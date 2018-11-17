@@ -53,18 +53,32 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Arcade_Car_Physics\Scripts\BrakeLight.cs" />
      <Compile Include="Assets\Arcade_Car_Physics\Scripts\CameraFollow.cs" />
+     <Compile Include="Assets\Arcade_Car_Physics\Scripts\CarAIControl.cs" />
+     <Compile Include="Assets\Arcade_Car_Physics\Scripts\CarAudio.cs" />
+     <Compile Include="Assets\Arcade_Car_Physics\Scripts\CarController.cs" />
+     <Compile Include="Assets\Arcade_Car_Physics\Scripts\CarSelfRighting.cs" />
+     <Compile Include="Assets\Arcade_Car_Physics\Scripts\CarUserControl.cs" />
+     <Compile Include="Assets\Arcade_Car_Physics\Scripts\CounterText.cs" />
      <Compile Include="Assets\Arcade_Car_Physics\Scripts\EngineSoundManager.cs" />
+     <Compile Include="Assets\Arcade_Car_Physics\Scripts\GameManager.cs" />
      <Compile Include="Assets\Arcade_Car_Physics\Scripts\Ghost.cs" />
+     <Compile Include="Assets\Arcade_Car_Physics\Scripts\Mudguard.cs" />
+     <Compile Include="Assets\Arcade_Car_Physics\Scripts\SkidTrail.cs" />
      <Compile Include="Assets\Arcade_Car_Physics\Scripts\Suspension.cs" />
+     <Compile Include="Assets\Arcade_Car_Physics\Scripts\Target.cs" />
      <Compile Include="Assets\Arcade_Car_Physics\Scripts\Trails\Trail.cs" />
      <Compile Include="Assets\Arcade_Car_Physics\Scripts\Trails\TrailEmitter.cs" />
+     <Compile Include="Assets\Arcade_Car_Physics\Scripts\WheelEffects.cs" />
      <Compile Include="Assets\Arcade_Car_Physics\Scripts\WheelVehicle.cs" />
+     <Compile Include="Assets\Arcade_Car_Physics\Suspension.cs" />
      <Compile Include="Assets\cHECKPOINT.cs" />
      <Compile Include="Assets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
      <Compile Include="Assets\SampleScenes\Menu\Scripts\PauseMenu.cs" />
      <Compile Include="Assets\SampleScenes\Menu\Scripts\SceneAndURLLoader.cs" />
      <Compile Include="Assets\SampleScenes\Scripts\CameraSwitch.cs" />
+     <Compile Include="Assets\SampleScenes\Scripts\Guns.cs" />
      <Compile Include="Assets\SampleScenes\Scripts\LevelReset.cs" />
      <Compile Include="Assets\SampleScenes\Scripts\ParticleSceneControls.cs" />
      <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
